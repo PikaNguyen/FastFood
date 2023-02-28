@@ -1,0 +1,10 @@
+D:\Winform\FastFoodRestaurant\FastFoodRestaurant\bin\Debug\FastFoodRestaurant.exe.config
+D:\Winform\FastFoodRestaurant\FastFoodRestaurant\bin\Debug\FastFoodRestaurant.exe
+D:\Winform\FastFoodRestaurant\FastFoodRestaurant\bin\Debug\FastFoodRestaurant.pdb
+D:\Winform\FastFoodRestaurant\FastFoodRestaurant\obj\Debug\FastFoodRestaurant.csproj.AssemblyReference.cache
+D:\Winform\FastFoodRestaurant\FastFoodRestaurant\obj\Debug\FastFoodRestaurant.Form1.resources
+D:\Winform\FastFoodRestaurant\FastFoodRestaurant\obj\Debug\FastFoodRestaurant.Properties.Resources.resources
+D:\Winform\FastFoodRestaurant\FastFoodRestaurant\obj\Debug\FastFoodRestaurant.csproj.GenerateResource.cache
+D:\Winform\FastFoodRestaurant\FastFoodRestaurant\obj\Debug\FastFoodRestaurant.csproj.CoreCompileInputs.cache
+D:\Winform\FastFoodRestaurant\FastFoodRestaurant\obj\Debug\FastFoodRestaurant.exe
+D:\Winform\FastFoodRestaurant\FastFoodRestaurant\obj\Debug\FastFoodRestaurant.pdb
